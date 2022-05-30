@@ -1,4 +1,6 @@
 c'est le deuxieme fichier.
 
 
+la ligne est rajouté depuis l'ide 
+
 j'ajoute une deuxieme ligne dans le fichier
