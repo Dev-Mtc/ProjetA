@@ -1,0 +1,21 @@
+From af098ebb75a3b1fc966c926d86818ab964bda3df Mon Sep 17 00:00:00 2001
+From: Mtc <mtcthedev@gmail.com>
+Date: Tue, 31 May 2022 14:58:34 +0200
+Subject: [PATCH] Add readme file
+
+---
+ READ.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 READ.md
+
+diff --git a/READ.md b/READ.md
+new file mode 100644
+index 0000000..408eb7f
+--- /dev/null
++++ b/READ.md
+@@ -0,0 +1 @@
++Un simple projet pour apprendre git !
+\ No newline at end of file
+-- 
+2.28.0.windows.1
+
